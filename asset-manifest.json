@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/texting-mania/static/css/main.3e343951.css",
+    "main.js": "/texting-mania/static/js/main.9f54ca61.js",
+    "static/js/787.6008aac3.chunk.js": "/texting-mania/static/js/787.6008aac3.chunk.js",
+    "index.html": "/texting-mania/index.html",
+    "main.3e343951.css.map": "/texting-mania/static/css/main.3e343951.css.map",
+    "main.9f54ca61.js.map": "/texting-mania/static/js/main.9f54ca61.js.map",
+    "787.6008aac3.chunk.js.map": "/texting-mania/static/js/787.6008aac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e343951.css",
+    "static/js/main.9f54ca61.js"
+  ]
+}
